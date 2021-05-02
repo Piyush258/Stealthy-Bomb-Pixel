@@ -7,7 +7,7 @@ var play = 1;
 var gameState = play;
 var end = 0;
 var win = 2;
-var time = 10;
+var time = 300;
 
 function preload(){
     playerImg = loadImage("sprite_1.png");
